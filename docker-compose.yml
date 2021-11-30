@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: omar60603/Docker-React:latest
+    image: omar60603/docker-react:latest
     container_name: web
     restart: unless-stopped
     ports:
